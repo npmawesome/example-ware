@@ -1,0 +1,9 @@
+{
+  "name": "example-ware",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "ware": "^1.2.0"
+  }
+}
