@@ -1,7 +1,7 @@
 example-ware
 ============
 
-This example refers to the article on [nodejitsu.com](http://...) and [npmawesome.com](http://...) about `ware`.
+This example refers to the article on [nodejitsu.com](http://blog.nodejitsu.com/npmawesome-roll-your-own-middleware-with-ware/) and [npmawesome.com](http://npmawesome.com/posts/2014-10-06-ware/) about `ware`.
 
 ## Usage
 
@@ -9,3 +9,4 @@ This example refers to the article on [nodejitsu.com](http://...) and [npmawesom
     cd example-ware
     npm install
     npm test
+    
